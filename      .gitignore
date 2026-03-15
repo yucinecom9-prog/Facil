@@ -1,0 +1,26 @@
+# --- Segurança e Credenciais ---
+.env
+*.log
+config_local.php
+credentials.json
+/private/
+
+# --- Pastas de Dependências ---
+node_modules/
+vendor/
+.venv/
+env/
+
+# --- Arquivos de Build e Saída ---
+dist/
+build/
+bin/
+out/
+*.pdf
+*.zip
+
+# --- Sistema e Editores ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

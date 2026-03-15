@@ -1,0 +1,17 @@
+{
+  "short_name": "AgroPalma",
+  "name": "Agro na Palma da Mão - João Divino",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2765/2765011.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#1a531b",
+  "display": "standalone",
+  "theme_color": "#1a531b",
+  "description": "Sistema de Receituário de Calda"
+}
